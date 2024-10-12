@@ -5,3 +5,4 @@ Day 85 - Professional Portfolio Project - [GUI]
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (10/10/2024); update tomorrow.
+    Finished practice (10/11/2024); updated.
